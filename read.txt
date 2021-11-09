@@ -1,5 +1,3 @@
 this is a read file
 
-this is a & b
-
-
+this is a & and  b 
