@@ -3,9 +3,13 @@ this is a read file
 this is a & and  b
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 this is working
 
 aaa 
+=======
+haven fix the problem 
+>>>>>>> 2eee7c3... resovle the issue
 =======
 haven fix the problem 
 >>>>>>> 2eee7c3... resovle the issue
